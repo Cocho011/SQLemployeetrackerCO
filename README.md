@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Video Walkthrough](#walkthrough)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -13,6 +14,10 @@
 ## Description
 
 The Employee Management System is a command-line application built using Node.js, Inquirer, and MySQL. It allows a company to manage its employee database, including viewing departments, roles, and employees, as well as adding and updating employee information. This application aims to simplify the process of managing employee data by providing an interactive interface for performing CRUD operations on the database.
+
+## Video Walkthrough Link 
+
+https://drive.google.com/file/d/16DQcPOkEDb00lCNTFJnYeXU2uc_QFd3p/view?usp=sharing
 
 ## Installation
 
